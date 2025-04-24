@@ -1,0 +1,4 @@
+victron_data.log
+venv/
+scan_victron.py
+.env
